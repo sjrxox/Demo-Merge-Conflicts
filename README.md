@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Sharaine Reyes
+Simple App, by Sharaine Reyes
